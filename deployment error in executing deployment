@@ -1,0 +1,26 @@
+{
+  "Code": "NotFound",
+  "Message": "Cannot find SourceControlToken with name GitHub.",
+  "Target": null,
+  "Details": [
+    {
+      "Message": "Cannot find SourceControlToken with name GitHub."
+    },
+    {
+      "Code": "NotFound"
+    },
+    {
+      "ErrorEntity": {
+        "ExtendedCode": "51004",
+        "MessageTemplate": "Cannot find {0} with name {1}.",
+        "Parameters": [
+          "SourceControlToken",
+          "GitHub"
+        ],
+        "Code": "NotFound",
+        "Message": "Cannot find SourceControlToken with name GitHub."
+      }
+    }
+  ],
+  "Innererror": null
+}
